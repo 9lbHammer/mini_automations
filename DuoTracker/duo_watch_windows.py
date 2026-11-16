@@ -35,8 +35,8 @@ STORES = {
 }
 PRODUCT = "iPhone Duo"
 CHECK_EVERY_SECONDS = 60          # time between full rounds; be polite, don't go much lower
-NTFY_TOPIC = ""                   # push to iPhone via the free ntfy app, e.g. "duo-watch-bc7342". Leave "" to skip.
-IMESSAGE_TO = ""                  # your phone number or Apple ID email, e.g. "+16175551234". Leave "" to skip.
+NTFY_TOPIC = "duo-watch-bc7342"                   # push to iPhone via the free ntfy app, e.g. "duo-watch-bc7342". Leave "" to skip.
+IMESSAGE_TO = "9087238088"                  # your phone number or Apple ID email, e.g. "+16175551234". Leave "" to skip.
 OPEN_PAGE_WHEN_IN_STOCK = True
 HEALTHCHECK_URL = ""              # optional: healthchecks.io ping URL; alerts you if the Mac stops checking
 # ------------------------------
