@@ -31,6 +31,7 @@ STORES = {
     "West 14th Street":   "https://instockradar.com/us/store/west14thstreet",
     "SoHo":               "https://instockradar.com/us/store/soho",
     "Grand Central":      "https://instockradar.com/us/store/grandcentral",
+    "American Dream":     "https://instockradar.com/us/store/americandream"
 }
 PRODUCT = "iPhone Duo"
 CHECK_EVERY_SECONDS = 60          # time between full rounds; be polite, don't go much lower
